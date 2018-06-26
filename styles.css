@@ -1,15 +1,11 @@
 body {
     text-align: center;
+	background: #eaeded !important;	
 }
 
 h1 {
-    font-family: Monoton;
+    font-family: Monoton !important;
     font-size: 70px;
-    margin: 0.2em;
-}
-
-h2 {
-    margin: 1em 0 0.25em;
 }
 
 h2:first-of-type {
